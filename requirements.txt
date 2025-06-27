@@ -1,0 +1,14 @@
+pandas>=2.2.0
+dask[complete]>=2024.1.0
+numpy>=1.26.0
+plotly>=5.18.0
+kaleido>=0.2.1
+langchain>=0.2.16
+langchain-openai>=0.1.25
+langchain-core>=0.2.38
+langgraph>=0.2.74
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+python-dotenv>=1.0.0
+reportlab>=4.0.0
+pillow>=10.0.0 

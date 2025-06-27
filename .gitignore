@@ -1,0 +1,48 @@
+# Environment files
+.env
+env
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data files
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated reports
+*.pdf
+
+# Temporary files
+temp_uploads/
+temp/
+tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/ 
